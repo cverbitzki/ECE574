@@ -1,0 +1,30 @@
+output_width=3888, output_height=2592, output_components=3
+malloced space on thread: 0
+start: 0|end: 324 with mult: 0.125000 div: 0.125000 for thread 0
+malloced space on thread: 3
+start: 972|end: 1296 with mult: 0.125000 div: 0.500000 for thread 3
+malloced space on thread: 1
+start: 324|end: 648 with mult: 0.125000 div: 0.250000 for thread 1
+malloced space on thread: 2
+start: 648|end: 972 with mult: 0.125000 div: 0.375000 for thread 2
+malloced space on thread: 7
+start: 2268|end: 2592 with mult: 0.125000 div: 1.000000 for thread 7
+malloced space on thread: 4
+start: 1296|end: 1620 with mult: 0.125000 div: 0.625000 for thread 4
+malloced space on thread: 5
+start: 1620|end: 1944 with mult: 0.125000 div: 0.750000 for thread 5
+malloced space on thread: 6
+start: 1944|end: 2268 with mult: 0.125000 div: 0.875000 for thread 6
+start: 972|end: 1296 with mult: 0.125000 div: 0.500000 for thread 3
+start: 1296|end: 1620 with mult: 0.125000 div: 0.625000 for thread 4
+start: 1944|end: 2268 with mult: 0.125000 div: 0.875000 for thread 6
+start: 1620|end: 1944 with mult: 0.125000 div: 0.750000 for thread 5
+start: 0|end: 324 with mult: 0.125000 div: 0.125000 for thread 0
+start: 324|end: 648 with mult: 0.125000 div: 0.250000 for thread 1
+start: 2268|end: 2592 with mult: 0.125000 div: 1.000000 for thread 7
+start: 648|end: 972 with mult: 0.125000 div: 0.375000 for thread 2
+Load time: 0.151110
+Convolve time: 0.161340
+Combine time: 0.221044
+Store time: 0.080396
+Total time = 0.613890

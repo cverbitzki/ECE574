@@ -1,0 +1,18 @@
+output_width=3888, output_height=2592, output_components=3
+malloced space on thread: 0
+start: 0|end: 648 with mult: 0.250000 div: 0.250000 for thread 0
+malloced space on thread: 1
+start: 648|end: 1296 with mult: 0.250000 div: 0.500000 for thread 1
+malloced space on thread: 2
+start: 1296|end: 1944 with mult: 0.250000 div: 0.750000 for thread 2
+malloced space on thread: 3
+start: 1944|end: 2592 with mult: 0.250000 div: 1.000000 for thread 3
+start: 1296|end: 1944 with mult: 0.250000 div: 0.750000 for thread 2
+start: 648|end: 1296 with mult: 0.250000 div: 0.500000 for thread 1
+start: 1944|end: 2592 with mult: 0.250000 div: 1.000000 for thread 3
+start: 0|end: 648 with mult: 0.250000 div: 0.250000 for thread 0
+Load time: 0.151913
+Convolve time: 0.303633
+Combine time: 0.206106
+Store time: 0.076560
+Total time = 0.738212

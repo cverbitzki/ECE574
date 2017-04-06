@@ -1,0 +1,54 @@
+output_width=3888, output_height=2592, output_components=3
+malloced space on thread: 11
+start: 1782|end: 1944 with mult: 0.062500 div: 0.750000 for thread 11
+malloced space on thread: 12
+start: 1944|end: 2106 with mult: 0.062500 div: 0.812500 for thread 12
+malloced space on thread: 15
+start: 2430|end: 2592 with mult: 0.062500 div: 1.000000 for thread 15
+malloced space on thread: 8
+start: 1296|end: 1458 with mult: 0.062500 div: 0.562500 for thread 8
+malloced space on thread: 9
+start: 1458|end: 1620 with mult: 0.062500 div: 0.625000 for thread 9
+malloced space on thread: 10
+start: 1620|end: 1782 with mult: 0.062500 div: 0.687500 for thread 10
+malloced space on thread: 13
+start: 2106|end: 2268 with mult: 0.062500 div: 0.875000 for thread 13
+malloced space on thread: 14
+start: 2268|end: 2430 with mult: 0.062500 div: 0.937500 for thread 14
+malloced space on thread: 0
+start: 0|end: 162 with mult: 0.062500 div: 0.062500 for thread 0
+malloced space on thread: 6
+start: 972|end: 1134 with mult: 0.062500 div: 0.437500 for thread 6
+malloced space on thread: 7
+start: 1134|end: 1296 with mult: 0.062500 div: 0.500000 for thread 7
+malloced space on thread: 3
+start: 486|end: 648 with mult: 0.062500 div: 0.250000 for thread 3
+malloced space on thread: 4
+start: 648|end: 810 with mult: 0.062500 div: 0.312500 for thread 4
+malloced space on thread: 5
+start: 810|end: 972 with mult: 0.062500 div: 0.375000 for thread 5
+malloced space on thread: 1
+start: 162|end: 324 with mult: 0.062500 div: 0.125000 for thread 1
+malloced space on thread: 2
+start: 324|end: 486 with mult: 0.062500 div: 0.187500 for thread 2
+start: 2268|end: 2430 with mult: 0.062500 div: 0.937500 for thread 14
+start: 1782|end: 1944 with mult: 0.062500 div: 0.750000 for thread 11
+start: 1296|end: 1458 with mult: 0.062500 div: 0.562500 for thread 8
+start: 1944|end: 2106 with mult: 0.062500 div: 0.812500 for thread 12
+start: 1458|end: 1620 with mult: 0.062500 div: 0.625000 for thread 9
+start: 972|end: 1134 with mult: 0.062500 div: 0.437500 for thread 6
+start: 1134|end: 1296 with mult: 0.062500 div: 0.500000 for thread 7
+start: 2430|end: 2592 with mult: 0.062500 div: 1.000000 for thread 15
+start: 324|end: 486 with mult: 0.062500 div: 0.187500 for thread 2
+start: 2106|end: 2268 with mult: 0.062500 div: 0.875000 for thread 13
+start: 1620|end: 1782 with mult: 0.062500 div: 0.687500 for thread 10
+start: 486|end: 648 with mult: 0.062500 div: 0.250000 for thread 3
+start: 162|end: 324 with mult: 0.062500 div: 0.125000 for thread 1
+start: 810|end: 972 with mult: 0.062500 div: 0.375000 for thread 5
+start: 648|end: 810 with mult: 0.062500 div: 0.312500 for thread 4
+start: 0|end: 162 with mult: 0.062500 div: 0.062500 for thread 0
+Load time: 0.207166
+Convolve time: 0.160851
+Combine time: 0.267832
+Store time: 0.128935
+Total time = 0.764784

@@ -1,0 +1,35 @@
+ECE574 Spring 2017 Homework #7
+
+Names of group memebers:
+Kyle Parry and Christopher Verbitzki
+
+3.
+	Time taken to convolve:
+
+	1      1.576659
+	2      0.763447
+	4      0.303633
+	8      0.161340
+	16     0.160851
+
+4.
+	Change you made
+
+	Time taken:
+	1
+	2
+	4
+	8
+	16
+
+5.
+	Time taken on Pi Cluster
+
+	1
+	2
+	4
+	8
+	16
+
+	Did it scale?
+
